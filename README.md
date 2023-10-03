@@ -1,0 +1,1 @@
+# Esercizio_iteratori_classe_string
