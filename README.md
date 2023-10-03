@@ -1,1 +1,1 @@
-# Esercizio_iteratori_classe_string
+Semplice esercizio scolastico sull'utilizzo degli iteratori della classe string
